@@ -1,2 +1,2 @@
-# python_lab_homework
-我的python实验作业
+# python_lab1_homework
+我的python实验作业1
